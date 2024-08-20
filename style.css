@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(138, 180, 218);
+}
+
+ul li {
+    display: inline;
+    margin: 10px;
+
+}
