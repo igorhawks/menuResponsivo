@@ -8,6 +8,21 @@ body,html{
     background-color: rgb(138, 180, 218);
 }
 
+i#burguer{
+    background-color: rgb(36, 36, 36);
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+i#burguer:hover{
+    color: black;
+    background-color: white;
+}
+
+
 header{
     background-color: gray;
 }
@@ -18,7 +33,7 @@ header > h1{
 }
 
 menu{
-    display: block;
+    display: none;
 }
 
 menu > ul {
